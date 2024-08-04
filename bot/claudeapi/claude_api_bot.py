@@ -19,7 +19,7 @@ from config import conf
 user_session = dict()
 
 
-# OpenAI对话模型API (可用)
+# OpenAI对话模型API (可用)ƒ
 class ClaudeAPIBot(Bot, OpenAIImage):
     def __init__(self):
         super().__init__()
