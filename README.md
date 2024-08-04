@@ -273,7 +273,7 @@ volumes:
 
 > Railway 每月提供5刀和最多500小时的免费额度。 (07.11更新: 目前大部分账号已无法免费部署)
 
-1. 进入 [Railway](https://railway.app/template/qApznZ?referralCode=RC3znh)
+1. 进入 [Railway](https://railway.app/template/qApznZ?referralCode=BbFCbT)
 2. 点击 `Deploy Now` 按钮。
 3. 设置环境变量来重载程序运行的参数，例如`open_ai_api_key`, `character_desc`。
 
